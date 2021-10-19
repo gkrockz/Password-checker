@@ -32,3 +32,5 @@
 <img src="image/output_v2.png" height="70%" width="80%"> 
 
 ---
+
+📑 Libary reference: [**`Hashlib`**](https://docs.python.org/3/library/hashlib.html) | [**`requests`**](https://docs.python-requests.org/en/latest/) | [**`sys`**](https://docs.python.org/3/library/sys.html)
